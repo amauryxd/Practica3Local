@@ -12,5 +12,7 @@ La materia tiene la inteicón de enseñarnos los difrentes tipos de sistemas ope
 **Principios de composición y diseño**
 La materia tiene como objetivo el enseñarnos a emplear el diseño para dar un mensaje en nustras imagenes, o en otro caso, como diseñarlas para resaltar alguna emoción
 
+**Diseño de videojuegos**
+La materia tiene com intención de enseñarnos los pasos y la manera correcta de como se crean los juegos desde 0, y como nos debemos organizar en equipo
 
 ![yoxd](foto..jpeg)

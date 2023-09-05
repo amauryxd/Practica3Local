@@ -22,4 +22,4 @@ La materia tiene el objetivo de enseñarnos la manera correcta de manejar proyec
 La materia tiene como fóco el sacar el certificado de ingles, necesario en muchas empresas para trabajar
 
 
-![yoxd](foto..jpeg)
+![yoxd](foto.jpeg)

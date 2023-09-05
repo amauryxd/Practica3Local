@@ -3,4 +3,4 @@
 
 [Practica 5](./practica-5.md)
 
-![foto](foto.jpeg)
+![foto](foto..jpeg)

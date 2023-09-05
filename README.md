@@ -9,5 +9,8 @@ La materia tiene la inteción de enseñarnos diferentes propiedades y practicas 
 **Sistemas Operativos**
 La materia tiene la inteicón de enseñarnos los difrentes tipos de sistemas operativos que existen y la forma de manejarlos, y como darles cierto mantenimiento
 
+**Principios de composición y diseño**
+La materia tiene como objetivo el enseñarnos a emplear el diseño para dar un mensaje en nustras imagenes, o en otro caso, como diseñarlas para resaltar alguna emoción
+
 
 ![yoxd](foto..jpeg)

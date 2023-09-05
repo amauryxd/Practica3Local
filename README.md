@@ -15,4 +15,7 @@ La materia tiene como objetivo el enseñarnos a emplear el diseño para dar un m
 **Diseño de videojuegos**
 La materia tiene com intención de enseñarnos los pasos y la manera correcta de como se crean los juegos desde 0, y como nos debemos organizar en equipo
 
+**Proyecto de App**
+La materia tiene el objetivo de enseñarnos la manera correcta de manejar proyectos y generar ayuda visual para cualquier programador o no programador
+
 ![yoxd](foto..jpeg)

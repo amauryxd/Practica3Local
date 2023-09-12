@@ -1,0 +1,154 @@
+commit 6abbd488f97526e9fc735f54a5571b045bb976a8
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 13:14:11 2023 -0600
+
+    Se me olvido los profes xd
+
+commit eb673f4d94420056604a999d72a42c5bdeeda94b
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 13:00:49 2023 -0600
+
+    arreglando la imagen que se volvio a perder
+
+commit 8369075e727735a138e4c5ac681de8c340c92d59
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:59:56 2023 -0600
+
+    Agregando INgles Tecnico
+
+commit d4dc3a57fc0d40e83faf69484b014a8a259ab6c8
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:57:55 2023 -0600
+
+    Agregando Proyecto App
+
+commit 1c22550af7385140cd569b84c2566be858150994
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:55:40 2023 -0600
+
+    Agregando Diseño de juegos
+
+commit d54a6c5f44fc5f66d28cb25707ea85f9d2cb552b
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:49:47 2023 -0600
+
+    Agregando Composicion y diseño
+
+commit f5e55b57f871e05cebb5fcd44ef4eaf333bd112b
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:46:38 2023 -0600
+
+    Agregando Sistemas operatios
+
+commit a2c1a2fbb41b98f3717726eadb8addea4d4f3239
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:44:49 2023 -0600
+
+    Agregando Lenguajes Interpretados
+
+commit 3faa0a325e4ad365aa9ca4fa6573665c88141386
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:38:36 2023 -0600
+
+    incio de readme
+
+commit 0b233746b945424060e7ad9212dadd7c8b001fb0
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:33:25 2023 -0600
+
+    se murio la imagen
+
+commit b10f06ad955151bef45743c1325677d4dc6d602f
+Merge: 16b4ef2 f068283
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:26:55 2023 -0600
+
+    ManualMerging
+
+commit f0682832ca9b0dc6fe5cf774957243091dcd044b
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:17:51 2023 -0600
+
+    Agregando script al html
+
+commit 16b4ef22ab0c1f7d8d6578282346716641bf167b
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:16:56 2023 -0600
+
+    agregando link a html
+
+commit 9a87520dae5dccd652cff73df32be7278c3bc67e
+Merge: 0f9c371 08481ee
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:15:11 2023 -0600
+
+    Merge branch 'js'
+
+commit 0f9c3719ea91470e75e9b881be689f2c7e8c3c25
+Merge: 3802e05 70caee5
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:14:36 2023 -0600
+
+    Merge branch 'css'
+
+commit 08481eea36104d2d49ea3b6c37c4a46d47258ec0
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:14:14 2023 -0600
+
+    Agregando script en js
+
+commit 70caee56e02bc50688db5e8dd10eee87063309b3
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:13:36 2023 -0600
+
+    Agregando style en css
+
+commit 3802e059e4021de3ff87cb133f1df7da8d865919
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 12:12:54 2023 -0600
+
+    agregando html
+
+commit 27f88400ab4823435a5207d41f1e47d7b0b63136
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Sep 5 11:51:28 2023 -0600
+
+    cambio
+
+commit 5d91c2f4a46d20c928127c967d79ea84d3649bba
+Author: cdmx2472@amerike.edu.mx <edgarpinto010203@gmail.com>
+Date:   Thu Aug 31 09:46:35 2023 -0600
+
+    Agregando enlace y contenido de Practica 5
+
+commit 83a4db899359975b1359a6a4718fe8f657b07db5
+Author: amauryxd <118020379+amauryxd@users.noreply.github.com>
+Date:   Tue Aug 29 20:08:53 2023 -0600
+
+    Create LICENSE
+    
+    Agregando licencia al repositorio
+
+commit 385c83880a0a2eeb83ffec0d4753404925cc03b9
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Aug 29 20:03:15 2023 -0600
+
+    Creando archivo .gitignore
+
+commit 4353a90bad92f2a35fa36b6884e72d1ae953b9eb
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Aug 29 12:05:48 2023 -0600
+
+    agregando mi foto
+
+commit cde4ea2672bc2af1a3e38d2a61727fba927dcfd2
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Aug 29 12:03:43 2023 -0600
+
+    agregando mi edad
+
+commit 3ffc7b7742ddbddb89237847f0ce08873b3353e0
+Author: amauryxd <cdmx2472@amerike.edu.mx>
+Date:   Tue Aug 29 12:00:17 2023 -0600
+
+    primer commit

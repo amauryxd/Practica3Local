@@ -1,0 +1,64 @@
+/*
+Los 3 tipos de selectores básicos que tenemos en CSS son:
+
+1) Selectores de etiqueta
+2) Selectores de identificarodes
+3) Selectores de clases
+*/
+
+body{
+    background-color: #ddd;
+    color: #222;
+    font-family: 'Inter', sans-serif;
+}
+
+#titulo{
+    background-color: aliceblue;
+    color: grey;
+    text-align: center;
+}
+
+p{
+    color: navy;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+.bg-pink{
+    background-color: pink;
+}
+.bg-orange{
+    background-color: orange;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-12{
+    font-size: 12px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container{
+    /*background-color: bisque;*/
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}

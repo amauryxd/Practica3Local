@@ -1,0 +1,14 @@
+{
+    "nombre": "amauryxd",
+    "edad": 39,
+    "profesor": false,
+    "materias": [
+        "materia 1",
+        "materia 2",
+        "materia 3"
+    ],"contacto":{
+        "cont1":"a",
+        "cont2":"b",
+        "cont3":"c"
+    }
+}
